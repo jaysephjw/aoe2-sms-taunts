@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taunts</string>
+
+    <string name="good_to_go">🎉\nTaunts enabled.\n(Triggered by receiving SMS)</string>
+    <string name="whoops">🤭\nThe app is missing the receive SMS permission, which is required for taunts to work.</string>
+
+    <string name="github_link">source code https://github.com/jaysephjw/aoe2-sms-taunts</string>
+</resources>
